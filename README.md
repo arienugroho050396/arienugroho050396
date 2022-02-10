@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://arienugroho050396.github.io/index.html](https://arienugroho050396.github.io/index.html)
 
-- 📝 I regularly write articles on [https://medium.com/@arienugroho650](https://medium.com/@arienugroho650)
-
 - 💬 Ask me about **Data Science or anything :D**
 
 - 📫 How to reach me **arienugroho650@gmail.com**
