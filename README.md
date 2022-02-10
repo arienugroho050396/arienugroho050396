@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Python, R and SQL**
 
-- 👨‍💻 All of my projects are available at [https://arienugroho050396.github.io/index.html](https://arienugroho050396.github.io/index.html)
+- 👨‍💻 Check out my project [here](https://arienugroho050396.github.io/index.html)
 
 - 💬 Ask me about **Data Science or anything :D**
 
 - 📫 How to reach me **arienugroho650@gmail.com**
 
-- 📄 Know about my experiences [https://arienugroho050396.github.io/contactme.html](https://arienugroho050396.github.io/contactme.html)
+- 📄 Know about my [experiences](https://arienugroho050396.github.io/contactme.html)
 
 - ⚡ Fun fact **I like playing chess**
 
