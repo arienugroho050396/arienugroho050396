@@ -34,6 +34,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arienugroho050396&" alt="arienugroho050396" /></p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/arienugroho050396/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arienugroho050396&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arie's github stats" /></a> | <a href="https://github.com/arienugroho050396/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arienugroho050396&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
