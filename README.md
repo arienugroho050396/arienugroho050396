@@ -1,12 +1,15 @@
 <h2 align="center">Hi 👋, I'm Mochammad Arie Nugroho</h2>
 <h3 align="center">A passionate data scientist from Indonesia</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arienugroho050396&label=Profile%20views&color=0e75b6&style=flat" alt="arienugroho050396" /> </p>
+
 - 🔭 I’m currently master student on **University of Brawijaya**
 - 👨‍💻 Check out my project [here](https://arienugroho050396.github.io/index.html)
 - 📫 How to reach me **arienugroho650@gmail.com**
 - 📄 Know about my [experiences](https://arienugroho050396.github.io/contactme.html)
 - ⚡ Fun fact **I like playing chess**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mocharienugroho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mocharienugroho" height="30" width="40" /></a>
