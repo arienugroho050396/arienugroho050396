@@ -30,7 +30,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=arienugroho050396&show_icons=true&locale=en" />
 </a>
 <a href="">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arienugroho050396&" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arienugroho050396&show_icons=true&locale=en&layout=compact" alt="arienugroho050396" />
 </a>
 
 
