@@ -26,16 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arienugroho050396&" alt="arienugroho050396" /></p>
 
-<a href="https://github.com/arienugroho050396/arienugroho050396">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=arienugroho050396&show_icons=true&locale=en" />
-</a>
-<a href="https://github.com/arienugroho050396/arienugroho050396">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arienugroho050396&show_icons=true&locale=en&layout=compact" alt="arienugroho050396" />
-</a>
-
-
-| <a href="https://github.com/arienugroho050396/arienugroho050396"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arienugroho050396&show_icons=true&locale=en&layout=compact" alt="arienugroho050396" /></a> | <a href="https://github.com/arienugroho050396/arienugroho050396"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arienugroho050396&show_icons=true&locale=en" /></a> |
-| ------------- | ------------- |
-
-
 
