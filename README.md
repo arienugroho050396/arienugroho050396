@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arienugroho050396&label=Profile%20views&color=0e75b6&style=flat" alt="arienugroho050396" /> </p>
 
 - 🔭 I’m currently master student on **University of Brawijaya**
-- 👨‍💻 Check out my project [here](https://arienugroho050396.github.io/index.html)
+- 👨‍💻 Check out my personal website [here](https://arienugroho050396.github.io/index.html)
 - 📫 How to reach me **arienugroho650@gmail.com**
 - 📄 Know about my [experiences](https://arienugroho050396.github.io/contactme.html)
 - ⚡ Fun fact **I like playing chess**
