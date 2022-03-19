@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data scientist from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arienugroho050396&label=Profile%20views&color=0e75b6&style=flat" alt="arienugroho050396"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arienugroho050396&label=Profile%20views&color=0e75b6&style=flat"alt="arienugroho050396"/></p>
 
 - 🔭 I’m currently master student on **University of Brawijaya**
 - 👨‍💻 Check out my personal website [here](https://arienugroho050396.github.io/index.html)
