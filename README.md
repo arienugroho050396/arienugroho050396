@@ -1,4 +1,4 @@
-<h2 align="center">Hi <img align="top" alt="dnn" width="32px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Mochammad Arie Nugroho</h2> 
+<h2 align="center">Hi <img align="top" alt="dnn" width="32px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Mochammad Arie Nugroho</h2>  
 <h3 align="center">A passionate data scientist from Indonesia</h3>   
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">     
 
