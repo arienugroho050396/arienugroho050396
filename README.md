@@ -24,7 +24,7 @@
 <p align='center'>
   A Passionate Data Scientist from Indonesia.
 </p>   
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
  
 - 🔭 I’m currently master student on **University of Brawijaya**
 - 👨‍💻 Check out my personal website [here](https://arienugroho050396.github.io/index.html)
