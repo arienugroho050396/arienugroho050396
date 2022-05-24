@@ -15,14 +15,10 @@
   <a href="https://instagram.com/moch_arie_n">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
-  <a href="https://instagram.com/moch_arie_n">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>
-  <a href="https://instagram.com/moch_arie_n">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  <a href="https://arienugroho050396.github.io/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />        
   </a>
 </p>
-
 
 <h2 align="center">Hi <img align="top" alt="dnn" width="32px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Mochammad Arie Nugroho</h2>  
 <h3 align="center">A passionate data scientist from Indonesia</h3>    
