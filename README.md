@@ -1,3 +1,23 @@
+<!-- Socials -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mocharienugroho/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mocharienugroho">
+  </a>
+  <a href="https://public.tableau.com/app/profile/mochammad.arie.nugroho" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/mochammad.arie.nugroho">
+  </a>
+  <a href="https://medium.com/@arienugroho650">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@arienugroho650">
+  </a>
+  <a href="mailto:arienugroho650@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arienugroho650@gmail.com">
+  </a>
+  <a href="https://instagram.com/moch_arie_n">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
+
+
 <h2 align="center">Hi <img align="top" alt="dnn" width="32px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Mochammad Arie Nugroho</h2>  
 <h3 align="center">A passionate data scientist from Indonesia</h3>    
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
