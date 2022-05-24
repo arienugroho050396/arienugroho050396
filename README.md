@@ -14,10 +14,13 @@
   </a>
   <a href="https://instagram.com/moch_arie_n">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://instagram.com/moch_arie_n">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp; 
+  </a>
+  <a href="https://instagram.com/moch_arie_n">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>
 </p>
 
 
