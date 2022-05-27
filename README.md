@@ -25,7 +25,7 @@
 Hi, i'm Mochammad Arie Nugroho, a passionate self taught data scientist from indonesia. It's fun to code something that anyone on the web can easily see. I also enjoy programming in Python, R and SQL because they challenge me more. I love it when I can finally solve a difficult problem.
 
 
-For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
+For my programming projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.
 
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> 
 
