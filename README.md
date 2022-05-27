@@ -21,9 +21,7 @@
 </p>
 
 <h2 align="center">Hi <img align="top" alt="dnn" width="32px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Mochammad Arie Nugroho</h2>  
-<p align='center'>
-  A Passionate Data Scientist from Indonesia.
-</p>   
+
 Hi, i'm Mochammad Arie Nugroho, a passionate self taught data scientist from indonesia. It's fun to code something that anyone on the web can easily see. I also enjoy programming in Python, R and SQL because they challenge me more. I love it when I can finally solve a difficult problem.
 
 
