@@ -50,6 +50,9 @@ For my programming projects, I usually only upload to Github once I make signifi
   <a href="https://www.codechef.com/users/moch_arie_n">
     <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />        
   </a>
+  <a href="https://www.sololearn.com/profile/26129415">
+    <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" />
+   </a>
 </p>
  
   
