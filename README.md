@@ -4,7 +4,7 @@
 <p align="center">   
   <a href="https://www.linkedin.com/in/mocharienugroho/" target="_blank" rel="noopener noreferrer">     
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the- badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mocharienugroho"> 
-  </a>
+  </a> 
   <a href="https://public.tableau.com/app/profile/mochammad.arie.nugroho" target="_blank" rel="noopener noreferrer">  
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/mochammad.arie.nugroho">
   </a>
