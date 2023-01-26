@@ -27,7 +27,7 @@ Hi, i'm Mochammad Arie Nugroho, a passionate self taught data scientist from ind
 
 For my programming projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.
 
-<img align="right" alt="Coding" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> 
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">  
 
 - 🔭 I’m currently master student on **University of Brawijaya** 
 - 👨‍💻 Check out my personal website [here](https://arienugroho050396.github.io/index.html)
