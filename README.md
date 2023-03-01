@@ -29,7 +29,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">  
 
-- 🔭 I’m currently working as **Big Data Cloud Developer** in **PT Mitra Talenta Group** in Jakarta, Indonesia 
+- 🔭 I’m currently working as **Big Data Cloud Developer** in **PT Mitra Talenta Group** in Indonesia 
 - 👨‍💻 Check out my personal website [here](https://arienugroho050396.github.io/index.html)
 - 📫 How to reach me **arienugroho650@gmail.com**
 - 📄 Know about my [experiences](https://arienugroho050396.github.io/contactme.html)
