@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />         
   </a>
 </p>
-
+  
 Hi, i'm Mochammad Arie Nugroho, a passionate self taught data scientist from indonesia. It's fun to code something that anyone on the web can easily see. I also enjoy programming in Python, R and SQL because they challenge me more. I love it when I can finally solve a difficult problem.
 
 
