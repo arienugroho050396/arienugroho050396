@@ -22,10 +22,9 @@
   </a>
 </p>
   
-Hi, i'm Mochammad Arie Nugroho, a passionate self taught data scientist from indonesia. It's fun to code something that anyone on the web can easily see. I also enjoy programming in Python, R and SQL because they challenge me more. I love it when I can finally solve a difficult problem.
+Greetings! I am Mochammad Arie Nugroho, an ardent, self-taught data scientist hailing from Indonesia. I find immense joy in crafting code that leaves an indelible impression on the vast expanse of the web. Python, R, and SQL are my weapons of choice, as they continuously push me to overcome challenges. Triumphing over perplexing problems is a sensation I relish.
 
-
-For my programming projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.
+When it comes to my programming endeavors, I reserve the honor of gracing Github with my work until substantial strides have been made. However, I warmly invite you to forge a connection by creating pull requests and contributing to any of my repositories. Together, let's embark on a journey of innovation and collaboration.
 
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">  
 
