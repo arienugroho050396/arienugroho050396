@@ -30,7 +30,6 @@ When it comes to my programming endeavors, I reserve the honor of gracing Github
 
 - 🔭 I’m currently working as **Data Engineer** @ **Danone Indonesia** 
 - 👨‍💻 Check out my personal website [here](https://arienugroho050396.github.io/index.html)
-- 📫 How to reach me **arienugroho650@gmail.com**
 - 📄 Know about my [experiences](https://arienugroho050396.github.io/contactme.html)
 - ⚡ Fun fact **I like playing chess against myself**
 
