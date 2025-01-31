@@ -28,7 +28,7 @@ When it comes to my programming endeavors, I reserve the honor of gracing Github
 
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">  
 
-- 🔭 I’m currently working as **Data Engineer** @ **Danone Indonesia** 
+- 🔭 I’m currently working as **Data Engineer** at **Danone Indonesia** 
 - 👨‍💻 Check out my personal website [here](https://arienugroho050396.github.io/index.html)
 - 📄 Know about my [experiences](https://arienugroho050396.github.io/contactme.html)
 - ⚡ Fun fact **I like playing chess against myself**
