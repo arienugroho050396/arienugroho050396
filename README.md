@@ -14,9 +14,6 @@
   <a href="mailto:arienugroho650@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arienugroho650@gmail.com">
   </a>
-  <a href="https://instagram.com/moch_arie_n">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>
   <a href="https://arienugroho050396.github.io/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />         
   </a>
