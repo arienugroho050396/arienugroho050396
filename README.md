@@ -11,17 +11,16 @@
   <a href="https://medium.com/@arienugroho650">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@arienugroho650">
   </a> 
-  <a href="mailto:arienugroho650@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arienugroho650@gmail.com">
-  </a>
   <a href="https://arienugroho050396.github.io/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />         
   </a>
 </p>
   
-Greetings! I am Mochammad Arie Nugroho, an ardent, self-taught data scientist hailing from Indonesia. I find immense joy in crafting code that leaves an indelible impression on the vast expanse of the web. Python, R, and SQL are my weapons of choice, as they continuously push me to overcome challenges. Triumphing over perplexing problems is a sensation I relish.
+A Data Engineer based in Indonesia with a strong focus on building scalable, reliable, and analytics-ready data platforms. I specialize in designing end-to-end data pipelines, transforming raw data into trusted datasets, and enabling data-driven decision making.
 
-When it comes to my programming endeavors, I reserve the honor of gracing Github with my work until substantial strides have been made. However, I warmly invite you to forge a connection by creating pull requests and contributing to any of my repositories. Together, let's embark on a journey of innovation and collaboration.
+My daily work revolves around Python and SQL, along with modern data stack tools such as Databricks, Snowflake, dbt, Airflow, and cloud platforms (Azure, AWS, GCP). I enjoy tackling complex data problems—whether it’s optimizing ETL workflows, modeling data marts, or ensuring data quality and consistency at scale.
+
+This GitHub is a space where I share projects, experiments, and solutions related to data engineering and analytics. Contributions, discussions, and pull requests are always welcome—let’s build impactful data solutions together.
 
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">  
 
