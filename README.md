@@ -1,20 +1,5 @@
 <h2 align="center">Hi, I'm Mochammad Arie Nugroho :wave: </h2>                     
                           
-<!-- Socials -->             
-<p align="center">           
-  <a href="https://www.linkedin.com/in/mocharienugroho/" target="_blank" rel="noopener noreferrer">                  
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-  badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mocharienugroho">         
-  </a>   
-  <a href="https://public.tableau.com/app/profile/mochammad.arie.nugroho" target="_blank" rel="noopener noreferrer">    
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/mochammad.arie.nugroho">
-  </a>
-  <a href="https://medium.com/@arienugroho650">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@arienugroho650">
-  </a> 
-  <a href="https://arienugroho050396.github.io/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />         
-  </a>
-</p>
   
 A Data Engineer based in Indonesia with a strong focus on building scalable, reliable, and analytics-ready data platforms. I specialize in designing end-to-end data pipelines, transforming raw data into trusted datasets, and enabling data-driven decision making.
 
