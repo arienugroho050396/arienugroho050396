@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Mochammad Arie Nugroho :wave: </h2>                     
                           
   
-A Data Engineer based in Indonesia with a strong focus on building scalable, reliable, and analytics-ready data platforms. I specialize in designing end-to-end data pipelines, transforming raw data into trusted datasets, and enabling data-driven decisionmaking.
+A Data Engineer based in Indonesia with a strong focus on building scalable, reliable, and analytics-ready data platforms. I specialize in designing end-to-end data pipelines, transforming raw data into trusted datasets, and enabling data-driven decision making.
 
 My daily work revolves around Python and SQL, along with modern data stack tools such as Databricks, Snowflake, dbt, Airflow, and cloud platforms (Azure, AWS, GCP). I enjoy tackling complex data problems—whether it’s optimizing ETL workflows, modeling data marts, or ensuring data quality and consistency at scale.
 
