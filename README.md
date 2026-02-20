@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Mochammad Arie Nugroho :wave: </h2>                     
-                           
+                            
    
 A Data Engineer based in Indonesia with a strong focus on building scalable, reliable, and analytics-ready data platforms. I specialize in designing end-to-end data pipelines, transforming raw data into trusted datasets, and enabling data-driven decision making.    
   
