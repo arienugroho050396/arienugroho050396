@@ -7,7 +7,7 @@ My daily work revolves around Python and SQL, along with modern data stack tools
 
 This GitHub is a space where I share projects, experiments, and solutions related to data engineering and analytics. Contributions, discussions, and pull requests are always welcome—let’s build impactful data solutions together.
  
-<img align="right" alt="Coding" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">  
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">   
 
 - 🔭 I’m currently working as **Data Engineer** at **Danone Indonesia** 
 - 👨‍💻 Check out my personal website [here](https://arienugroho050396.github.io/index.html)
