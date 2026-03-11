@@ -10,7 +10,7 @@ This GitHub is a space where I share projects, experiments, and solutions relate
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">    
 
 - 🔭 I’m currently working as **Data Engineer** at **Danone Indonesia** 
-- 👨‍💻 Check out my personal website [here](https://arienugroho050396.github.io/index.html)
+- 👨‍💻 Check out my personal website [here](https://arienugroho050396.github.io/index.html) 
 - 📄 Know about my [experiences](https://www.linkedin.com/in/mocharienugroho/)
 - ⚡ Fun fact **I like listening to rain sounds to help me concentrate.** 
  
